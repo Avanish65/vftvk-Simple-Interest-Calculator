@@ -4,8 +4,8 @@ h1{color:grey;font-family: Verdana}
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
-    padding:20px;
+    width: 480px;
+    padding:25px;
     border-radius:25px;
-    align:center
+    align: center;
 }
